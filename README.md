@@ -5,7 +5,7 @@
 **Nama:** Stefanus Hermawan
 
 
-## PW02_01 (Minggu 01)
+## - PW02_01 (Minggu 01)
 
 **Detail :** isi disini informasi detail tugasnya ngapain
 
