@@ -10,6 +10,7 @@
 **Detail :** 
 - **Kelas Teori ->** Review HTML5,CSS,Javascript & PHP
 - **Kelas Praktikum ->** Membuat Skema Database untuk Minggu 02
+
 File  _pw22091.sql_ adalah skema database untuk digunakan pada Minggu 02
 
-**Deadline :** Kamis,05 September 2019
+**Deadline :** -
