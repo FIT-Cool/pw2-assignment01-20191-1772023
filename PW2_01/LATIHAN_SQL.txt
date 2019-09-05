@@ -1,0 +1,11 @@
+
+SELECT isbn,title,author,publisher, genre.name FROM pw22091.book  join genre on book.genre_id=id;
+
+INSERT INTO book(isbn,title,author,publisher,publish_date,genre_id)
+VALUES(1245987564129,"Python For Dummies","Stef","Maranatha","2018-10-10",3);
+
+UPDATE book
+SET title = "PHP For Zombies"
+WHERE isbn=4512365478457;
+
+DELETE FROM book WHERE title="Python For Dummies";
