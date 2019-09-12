@@ -11,7 +11,7 @@ if(isset($submitted)){
     <input name="btnSubmit" type="submit" value="submit">
 </form>
 <br>
-<table>
+<table id="genre" class="display">
     <thead>
         <tr>
             <th>ID</th>
@@ -32,3 +32,4 @@ if(isset($submitted)){
         ?>
     </tbody>
 </table>
+

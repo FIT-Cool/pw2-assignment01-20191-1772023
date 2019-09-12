@@ -1,5 +1,6 @@
 <?php
 include_once 'db_function/genre_func.php';
+include_once 'db_function/book_func.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -9,6 +10,10 @@ include_once 'db_function/genre_func.php';
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="STefanus Hermawan - 1772023">
     <meta name="description" content="PHP Navigation and PHP Data Object (PDO)">
+
+    <link rel="stylesheet" type="text/css" href="src/datatables.css">
+    <script type="text/javascript" charset="utf8" src="src/datatables.js"></script>
+
     <title>PWL02</title>
 </head>
 <body>
@@ -20,6 +25,7 @@ include_once 'db_function/genre_func.php';
         <li><a href="?menu=home">Home</a></li>
         <li><a href="?menu=about">About</a></li>
         <li><a href="?menu=genre">Genre</a></li>
+        <li><a href="?menu=book">Book</a></li>
     </ul>
 </nav>
 
@@ -36,6 +42,8 @@ include_once 'db_function/genre_func.php';
             break;
         case 'genre':
             include_once 'view/genre.php';
+        case 'book':
+            include_once 'view/book.php';
             break;
         default:
             include_once 'view/home.php';
@@ -47,6 +55,16 @@ include_once 'db_function/genre_func.php';
     Pemrograman Web 2 &copy;2019
 </footer>
 </body>
+
+
+<script>
+    $(document).ready( function () {
+        $('#book').DataTable();
+        $('#genre').DataTable();
+       // $('#insertBook').DataTable();
+    } );
+
+</script>
 
 
 </html>

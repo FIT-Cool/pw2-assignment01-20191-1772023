@@ -19,8 +19,8 @@ File  _pw22091.sql_ adalah skema database untuk digunakan pada Minggu 02
 
 **Detail :** 
 - **Kelas Teori ->** Connect Database PDO & Show Data & Insert Data
-- **Kelas Praktikum ->** ....
+- **Kelas Praktikum ->** Insert Data Buku (Option Select Genre), Show All Data Buku (DateFormat Tertentu), Menggunakan Datatables
 
 ......
 
-**Deadline :** -
+**Deadline :** Lihat di Google Classroom
