@@ -24,3 +24,14 @@ File  _pw22091.sql_ adalah skema database untuk digunakan pada Minggu 02
 ......
 
 **Deadline :** Lihat di Google Classroom
+
+
+## - PW02_02 (Minggu 02)
+
+**Detail :** 
+- **Kelas Teori ->** Bikin API pake Java Spring Framework (Gak Ada Filenya,Ga berhasil WKWK)
+- **Kelas Praktikum ->** Delete & Update Data menggunakan bantuan __functions.js__
+
+......
+
+**Deadline :** Lihat di Google Classroom
