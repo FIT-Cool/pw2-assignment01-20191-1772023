@@ -35,3 +35,13 @@ File  _pw22091.sql_ adalah skema database untuk digunakan pada Minggu 02
 ......
 
 **Deadline :** Lihat di Google Classroom
+
+## - PW02_04 (Minggu 04)
+
+**Detail :** 
+- **Kelas Teori ->** PHP SESSION : Login Function & Pindahin Fungsi Koneksi ke DB (createMySQLConnection)
+- **Kelas Praktikum ->** Delete & Update Data menggunakan bantuan __functions.js__
+
+......
+
+**Deadline :** Lihat di Google Classroom
